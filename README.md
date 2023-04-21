@@ -1,16 +1,16 @@
 ## 기술 스택
 
-<div align="right">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+개인 프로젝트에서 사용한 기술 스택입니다.
 
-</div>
+- 언어
+  - **Java**
+  - **JavaScript** 
+- 개발환경
+  - **STS(Spring Tool Suite)**
+  - **Eclipse**
+  - **Visual Studio Code** 
+- 퍼블릭 클라우드
+  - **AWS**
 
 # Java-Team-Project
 
