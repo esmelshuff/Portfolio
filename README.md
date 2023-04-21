@@ -12,5 +12,7 @@ https://github.com/0204hyk/Java-Team-Project
 
 https://github.com/wonill/EzenMarket
 
-> 메인
+
  <img src="https://github.com/sj921/readme_images/blob/main/ezenmarket_images/%EB%A9%94%EC%9D%B8.png?raw=true" width="900">
+ 
+ <img src="https://github.com/sj921/readme_images/blob/main/ezenmarket_images/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_1.png?raw=true" width="900">
